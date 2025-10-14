@@ -1,7 +1,7 @@
 
 # From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in LLMs
 
-[![arXiv](https://img.shields.io/badge/arXiv-24XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/24XX.XXXXX)
+<!-- [![arXiv](https://img.shields.io/badge/arXiv-24XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/24XX.XXXXX) -->
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This repository contains the official code and data for the paper **\"From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models\"**.
@@ -39,8 +39,8 @@ Follow these instructions to set up your local environment and reproduce the res
 
 1.  **Clone the repository:**
     ```sh
-    git clone [https://github.com/your-username/your-repo-name.git](https://github.com/your-username/your-repo-name.git)
-    cd your-repo-name
+    git clone [https://github.com/strongSoda/LITERAL-TO-LIBERAL.git](https://github.com/strongSoda/LITERAL-TO-LIBERAL.git)
+    cd LITERAL-TO-LIBERAL
     ```
 
 2.  **Create a virtual environment (recommended):**
