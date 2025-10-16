@@ -128,7 +128,15 @@ The core of our contribution is the RID meta-prompt, which is used as a system p
 If you find our work useful, please cite our paper:
 
 ```bibtex
-COMING SOON
+@misc{khan2025literalliberalmetapromptingframework,
+      title={From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in Large Language Models}, 
+      author={Imran Khan},
+      year={2025},
+      eprint={2510.12864},
+      archivePrefix={arXiv},
+      primaryClass={cs.AI},
+      url={https://arxiv.org/abs/2510.12864}, 
+}
 ```
 
 ---
