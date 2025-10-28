@@ -2,7 +2,7 @@
 # From Literal to Liberal: A Meta-Prompting Framework for Eliciting Human-Aligned Exception Handling in LLMs
 
 <!-- [![arXiv](https://img.shields.io/badge/arXiv-24XX.XXXXX-b31b1b.svg)](https://arxiv.org/abs/24XX.XXXXX) -->
-[![arXiv](https://img.shields.io/badge/arXiv-1234.56789-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2510.12864v1)
+[![arXiv](https://img.shields.io/badge/arXiv-2510.12864-b31b1b.svg?style=for-the-badge)](https://arxiv.org/abs/2510.12864v1)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
